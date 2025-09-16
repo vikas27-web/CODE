@@ -1,0 +1,33 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.exe
+a.out
+
+# Libraries
+*.lib
+*.so
+*.dll
+
+# Debugging and temporary files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.log
+*~
+*.bak
+*.swp
+*.tmp
+
+# Build directories (if any)
+build/
+bin/
+obj/
+
+# IDE specific files (e.g., VS Code, Vim, Emacs)
+.vscode/
+.DS_Store
+Session.vim
+Sessionx.vim
+tags
